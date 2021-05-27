@@ -11,4 +11,5 @@ int main(){
   }
 
   printf("%d\n", sum);
+  printf("%s\n", "staus... complemte" );
 }
